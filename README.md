@@ -28,8 +28,6 @@ bash
 Copy code
 cd rock-paper-scissors
 Open the index.html file in your web browser.
-Demo
-You can also play the game live here (Add link to the live demo if hosted).
 
 Contributing
 Contributions are welcome! If you'd like to improve the game or add new features, feel free to fork the repository, make your changes, and submit a pull request.
